@@ -7,7 +7,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1 align="center">Bienvenidos a la Librería "LP2Team"</h1>
+        <h1 align="center">Bienvenidos a la Librería "LP2Team" (Alfa 2)</h1>
         <form action="valida.jsp" method="POST">
             <table border="0" align="center" cellspacing="0">
                 <thead>
