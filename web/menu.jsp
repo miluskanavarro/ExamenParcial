@@ -11,7 +11,7 @@
         <table border="0" align="center">
             <thead>
                 <tr>
-                    <th>Ejercicios</th>
+                    <th>Menu de opciones</th>
                 </tr>
             </thead>
             <tbody>
